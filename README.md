@@ -16,7 +16,7 @@ Install all the packages from NuGet Package manager
 `Microsoft.EntityFrameworkCore.SqlServer`
 `MySqlConnector`
 
-Use the following DB script ..............................
+Use the following DB script https://github.com/IshaniDasanayake/RaysCourseAPI/blob/master/DB%20script
 
 Start the API server. Default port is `5001`
 
